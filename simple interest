@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{int p,t,r;
+float si;
+printf("enter the number\n");
+scanf("%d%d%d",&p,&r,&t);
+p*r*t/100;
+printf(".2f\n",si);
+return 0;
+
+}
