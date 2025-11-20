@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<string.h>
+int main()
+{ char rose[20];
+printf("enter the name\n");
+scanf("%d",&rose);
+int c= strlen("Navya");
+printf("%d",c);
+
+
+
+
+
+
+
+}
